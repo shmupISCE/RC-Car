@@ -24,7 +24,8 @@ The Remote Control Car project allows you to control a car using WiFi. You can s
 - Easily extendable for additional features.
 ## Setup and Installation
 
-1. **Hardware Setup**: Connect the components as per your wiring diagram and pin configurations.
+1. **Hardware Setup**:
+   -Connect the components as per your wiring diagram and pin configurations.
 
 2. **Software Setup**:
    - Clone this repository to your development environment.
