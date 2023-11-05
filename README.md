@@ -7,11 +7,14 @@ The Remote Control Car project allows you to control a car using WiFi. You can s
 
 ## Hardware Components
 
-- EasyPic Fusion v7 Development Board   ![board](https://github.com/shmupISCE/RC-Car-PIC32/assets/59251183/27698a5e-18dd-4b9a-bb59-ffe02cd5eba0)
+- EasyPic Fusion v7 Development Board
+- ![board](https://github.com/shmupISCE/RC-Car-PIC32/assets/59251183/27698a5e-18dd-4b9a-bb59-ffe02cd5eba0)
 
 - 320x240 TFT Display with Touchscreen
 - PIC32MZ2048EFH144 Microcontroller
 - DC Motor 4 Click Motor Driver
+- ![dc-motor-4-click-large_default-12x](https://github.com/shmupISCE/RC-Car-PIC32/assets/59251183/0676cec1-00c0-49c9-bcaf-fcee17518ad6)
+
 
 ## Features
 
