@@ -22,3 +22,16 @@ The Remote Control Car project allows you to control a car using WiFi. You can s
 - Four control buttons on the touchscreen: Start, Stop, Forward, Backward.
 - Real-time feedback on the TFT display.
 - Easily extendable for additional features.
+## Setup and Installation
+
+1. **Hardware Setup**: Connect the components as per your wiring diagram and pin configurations.
+
+2. **Software Setup**:
+   - Clone this repository to your development environment.
+   - Build and flash the firmware to the PIC32 microcontroller.
+   - Ensure the WiFi module is properly configured.
+   - Upload the necessary code for the touchscreen interface.
+
+3. **Usage**:
+   - Power on the car and the control board.
+   - Use the touchscreen buttons to control the car.
