@@ -36,3 +36,5 @@ The Remote Control Car project allows you to control a car using WiFi. You can s
 3. **Usage**:
    - Power on the car and the control board.
    - Use the touchscreen buttons to control the car.
+3. **Flow chart** 
+   ![Screenshot_5](https://github.com/shmupISCE/RC-Car/assets/59251183/3b85fca1-d399-4af9-8ce3-1df79a854cc3)
