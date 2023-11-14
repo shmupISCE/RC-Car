@@ -1,4 +1,4 @@
-# RC-Car-PIC32 # Remote Control Car
+# Remote Control Car (PIC32)
 
 ## Project Description
 
